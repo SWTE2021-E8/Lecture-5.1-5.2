@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SeSJmxGmgWCHgGmYQ7gUWd5XTgwNJDMKBeSo5urD820KGAav0cRFs92vZsn5vCp/wekb51jojWw0CY7RVxTVmA==",
+  "dgSpecHash": "g8biUF1KxztxDUk3vYaDBzLCbiExVlBJkxkalTkuteuvYv10cUHZe8YJou/RGJwZ8prceUgdso9+BImk0TCKXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5\\ECS.UnitTests\\ECS.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5.1-5.2\\ECS.UnitTests\\ECS.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phill\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\phill\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

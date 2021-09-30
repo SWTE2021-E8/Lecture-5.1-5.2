@@ -5172,11 +5172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5\\ECS.UnitTests\\ECS.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5.1-5.2\\ECS.UnitTests\\ECS.UnitTests.csproj",
       "projectName": "ECS.UnitTests",
-      "projectPath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5\\ECS.UnitTests\\ECS.UnitTests.csproj",
+      "projectPath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5.1-5.2\\ECS.UnitTests\\ECS.UnitTests.csproj",
       "packagesPath": "C:\\Users\\phill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5\\ECS.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5.1-5.2\\ECS.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phill\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5193,8 +5193,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5\\ECS.Redesign\\ECS.Redesign.csproj": {
-              "projectPath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5\\ECS.Redesign\\ECS.Redesign.csproj"
+            "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5.1-5.2\\ECS.Redesign\\ECS.Redesign.csproj": {
+              "projectPath": "C:\\Users\\phill\\Desktop\\skole\\SWT\\Jenkis\\Lecture-5.1-5.2\\ECS.Redesign\\ECS.Redesign.csproj"
             }
           }
         }
